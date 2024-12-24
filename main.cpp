@@ -7,6 +7,8 @@ int main() {
 
     cout << "Sum: " << (a + b) << endl;
     cout << "Del: " << (a/b) << endl;
+    cout << "Proiz: " << (a*b) << endl;
+
 
     return 0;
 }
