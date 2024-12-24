@@ -9,6 +9,5 @@ int main() {
     cout << "Del: " << (a/b) << endl;
     cout << "Proiz: " << (a*b) << endl;
 
-
     return 0;
 }
